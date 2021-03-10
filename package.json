@@ -1,0 +1,27 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "chat-server - lab for day 3 week 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"No Test Code Available\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financ3/chat-server.git"
+  },
+  "keywords": [
+    "practice",
+    "lab",
+    "devmountain"
+  ],
+  "author": "Tanner Francis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Financ3/chat-server/issues"
+  },
+  "homepage": "https://github.com/Financ3/chat-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
